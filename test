@@ -19,7 +19,7 @@ function createWindow () {
   
   app.commandLine.appendSwitch ("disable-http-cache")
   // and load the index.html of the app.
-  mainWindow.loadURL('http://localhost:3682/')
+  mainWindow.loadURL('https://vu-uat.viteos.com/promosidebar/initiatetask/search')
  
   // mainWindow.loadURL('http://google.com/')
  
